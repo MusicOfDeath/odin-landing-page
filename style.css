@@ -158,6 +158,29 @@ button {
     max-height: 500px;
   }
 
+  .wrapper-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-left: 15%;
+    margin-right: 15%;
+    min-height: 100px;
+    min-width: 600px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 50px;
+  }
+
+  .leftcontent {
+    color: #F9FAF8;
+  }
+
+  .altbutton {
+    border: 4px solid white;
+  }
+
   .footer {
     display: flex;
     margin-top: auto;
