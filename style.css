@@ -99,3 +99,26 @@ button {
     color: white;
     width: 150px;
   }
+
+  .section-2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    height: 300px;
+  }
+
+  .info {
+    display: flex;
+    border-radius: 10%;
+    border: 4px solid #3882F6;
+    max-width: 200px;
+    max-height: 200px;
+    text-align: flex-end;
+    
+  }
+
+  h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
