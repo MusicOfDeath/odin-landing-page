@@ -152,3 +152,19 @@ button {
     width: 100%;
     margin-left: 120%;
   }
+
+  .section-4 {
+    min-height: 300px;
+    max-height: 500px;
+  }
+
+  .footer {
+    display: flex;
+    margin-top: auto;
+    color: #F9FAF8;
+    min-height: 100px;
+    max-height: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+  }
