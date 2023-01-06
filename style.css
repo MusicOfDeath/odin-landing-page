@@ -148,9 +148,7 @@ button {
   .author {
     font-weight: 900;
     font-size: 18px;
-    justify-self: right;
-    width: 100%;
-    margin-left: 120%;
+    padding-left: 550px;
   }
 
   .section-4 {
